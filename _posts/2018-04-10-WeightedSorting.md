@@ -2,7 +2,7 @@
 title: 处理加权排序类型问题的一般套路
 date: 2018-04-10 20:03:30
 categories:
-tags: Designs and Analysis of Algorithms
+tags: Algorithms
 ---
 
 ### 适用问题类型：
