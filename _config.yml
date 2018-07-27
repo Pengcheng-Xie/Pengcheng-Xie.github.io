@@ -6,7 +6,7 @@
 # Site
 title: Welcome to Pengcheng's blog
 subtitle: 学习&整理
-description: 自律者自由
+description: Make knowledge interesting
 author: 谢鹏程
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/head.jpg
 
 
 # Table Of Contents in the Sidebar
